@@ -17,3 +17,4 @@ una numeracion:
 
 [pagina del laboratorio](https://peluclab.github.io/)
 
+![zorzales](https://cazaworld.com/wp-content/uploads/2019/07/Zorzal-comun.jpg)
