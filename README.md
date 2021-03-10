@@ -15,3 +15,5 @@ una numeracion:
 1. uno
 2. cuatro
 
+[pagina del laboratorio](https://peluclab.github.io/)
+
